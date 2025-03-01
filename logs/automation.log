@@ -1,0 +1,15 @@
+2025-03-01 19:24:35 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 19:24:35 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-01 19:24:35 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-01 19:24:36 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-01 19:24:36 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-01 19:25:32 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 19:25:32 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-01 19:25:33 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-01 19:25:33 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-01 19:25:34 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-01 19:31:15 INFO  TC01_VerifyRegisterAccount:21 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 19:31:15 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-01 19:31:16 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-01 19:31:16 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-01 19:31:17 INFO  TC01_VerifyRegisterAccount:40 - Click on continue

@@ -1,0 +1,6 @@
+2025-03-01 20:42:31 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:42:31 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:42:36 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:42:36 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:42:36 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:42:37 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
