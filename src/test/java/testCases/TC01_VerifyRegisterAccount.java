@@ -18,7 +18,6 @@ public class TC01_VerifyRegisterAccount extends BaseClass{
 
     @Test
     public void registerAccSuccess() {
-
         try{
             logger.info("******TC01_VerifyRegisterAccount STARTED******");
             HomePage homePage = new HomePage(driver);
@@ -43,7 +42,7 @@ public class TC01_VerifyRegisterAccount extends BaseClass{
             if(registerPage.getMsg().equals("Your Account Has Been Created!")){
                 //log statement placed before Assert
                 logger.info("TC01_VerifyRegisterAccount PASSED");
-                Assert.assertTrue(true); //Hard assertion,if put log statement below Assert true statement -> Still execute
+                Assert.assertTrue(true); //Hard assertion,if put log statement below Assert statement -> Still execute if tc passes
             } else {
                 logger.error("TC01_VerifyRegisterAccount FAILED");
                 Assert.fail(); //Hard assertion,if put log statement below Assert fail statement -> Wont execute
@@ -51,7 +50,7 @@ public class TC01_VerifyRegisterAccount extends BaseClass{
         }catch (Exception e ){
             logger.error("Error logs..... ");
             logger.debug("Debug logs.....");
-            Assert.fail(); //Hard assertion,if put log statement below Assert fail statement -> Wont execute
+            Assert.fail(); //Hard assertion,if put log statement below Assert statement -> Not execute if tc failed
         } finally { //Always execute no matter the tc gets failed or passed
             logger.info("******TC01_VerifyRegisterAccount FINISHED******");
         }
