@@ -191,3 +191,133 @@
 2025-03-09 11:05:10 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
 2025-03-09 11:05:20 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
 2025-03-09 11:05:20 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 14:59:16 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 14:59:16 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 14:59:16 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 14:59:17 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 14:59:17 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 14:59:27 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 14:59:27 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:00:17 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:00:18 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:00:18 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:00:18 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:00:19 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:00:29 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:00:29 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:05:51 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:05:51 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:05:51 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:05:52 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:05:53 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:06:03 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:06:03 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:07:06 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:07:06 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:07:06 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:07:07 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:07:07 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:07:17 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:07:17 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:11:44 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:11:44 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:11:44 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:11:45 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:11:45 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:11:55 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:11:55 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:16:01 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:16:01 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:16:01 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:16:02 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:16:03 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:16:13 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:16:13 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:16:38 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:16:38 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:16:38 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:16:39 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:16:39 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:16:49 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:16:49 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:18:37 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:18:37 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:18:37 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:18:38 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:18:39 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:18:39 INFO  TC01_VerifyRegisterAccount:44 - TC01_VerifyRegisterAccount PASSED
+2025-03-09 15:18:39 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:21:55 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:21:55 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:21:55 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:21:56 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:21:56 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:22:06 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:22:06 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:23:28 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:23:28 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-09 15:23:28 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-09 15:23:29 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-09 15:23:29 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-09 15:23:39 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:23:39 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:26:09 INFO  TC01_VerifyRegisterAccount:14 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:26:09 INFO  TC01_VerifyRegisterAccount:17 - Clicked on My account
+2025-03-09 15:26:10 INFO  TC01_VerifyRegisterAccount:19 - Clicked on Register
+2025-03-09 15:26:10 INFO  TC01_VerifyRegisterAccount:29 - Filled in information
+2025-03-09 15:26:11 INFO  TC01_VerifyRegisterAccount:32 - Click on continue
+2025-03-09 15:26:11 INFO  TC01_VerifyRegisterAccount:36 - TC01_VerifyRegisterAccount PASSED
+2025-03-09 15:26:11 INFO  TC01_VerifyRegisterAccount:47 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:26:13 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-09 15:26:14 INFO  TC02_Login:19 - Clicked Login
+2025-03-09 15:26:14 INFO  TC02_Login:25 - Filled login info
+2025-03-09 15:26:15 INFO  TC02_Login:29 - Login successfully
+2025-03-09 15:26:15 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-09 15:26:31 INFO  TC01_VerifyRegisterAccount:14 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:26:31 INFO  TC01_VerifyRegisterAccount:17 - Clicked on My account
+2025-03-09 15:26:31 INFO  TC01_VerifyRegisterAccount:19 - Clicked on Register
+2025-03-09 15:26:32 INFO  TC01_VerifyRegisterAccount:29 - Filled in information
+2025-03-09 15:26:32 INFO  TC01_VerifyRegisterAccount:32 - Click on continue
+2025-03-09 15:26:43 ERROR TC01_VerifyRegisterAccount:39 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:26:43 INFO  TC01_VerifyRegisterAccount:47 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:26:45 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-09 15:26:46 INFO  TC02_Login:19 - Clicked Login
+2025-03-09 15:26:46 INFO  TC02_Login:25 - Filled login info
+2025-03-09 15:26:46 INFO  TC02_Login:29 - Login successfully
+2025-03-09 15:26:46 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-09 15:30:18 INFO  TC01_VerifyRegisterAccount:14 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:30:18 INFO  TC01_VerifyRegisterAccount:17 - Clicked on My account
+2025-03-09 15:30:18 INFO  TC01_VerifyRegisterAccount:19 - Clicked on Register
+2025-03-09 15:30:19 INFO  TC01_VerifyRegisterAccount:29 - Filled in information
+2025-03-09 15:30:20 INFO  TC01_VerifyRegisterAccount:32 - Click on continue
+2025-03-09 15:30:30 ERROR TC01_VerifyRegisterAccount:39 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:30:30 INFO  TC01_VerifyRegisterAccount:47 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:30:32 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-09 15:30:32 INFO  TC02_Login:19 - Clicked Login
+2025-03-09 15:30:33 INFO  TC02_Login:25 - Filled login info
+2025-03-09 15:30:34 INFO  TC02_Login:29 - Login successfully
+2025-03-09 15:30:34 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-09 15:32:29 INFO  TC01_VerifyRegisterAccount:14 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:32:30 INFO  TC01_VerifyRegisterAccount:17 - Clicked on My account
+2025-03-09 15:32:30 INFO  TC01_VerifyRegisterAccount:19 - Clicked on Register
+2025-03-09 15:32:31 INFO  TC01_VerifyRegisterAccount:29 - Filled in information
+2025-03-09 15:32:31 INFO  TC01_VerifyRegisterAccount:32 - Click on continue
+2025-03-09 15:32:41 ERROR TC01_VerifyRegisterAccount:39 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:32:44 INFO  TC01_VerifyRegisterAccount:48 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:32:47 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-09 15:32:48 INFO  TC02_Login:19 - Clicked Login
+2025-03-09 15:32:48 INFO  TC02_Login:25 - Filled login info
+2025-03-09 15:32:48 INFO  TC02_Login:29 - Login successfully
+2025-03-09 15:32:48 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-09 15:35:59 INFO  TC01_VerifyRegisterAccount:14 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-09 15:35:59 INFO  TC01_VerifyRegisterAccount:17 - Clicked on My account
+2025-03-09 15:35:59 INFO  TC01_VerifyRegisterAccount:19 - Clicked on Register
+2025-03-09 15:36:00 INFO  TC01_VerifyRegisterAccount:29 - Filled in information
+2025-03-09 15:36:00 INFO  TC01_VerifyRegisterAccount:32 - Click on continue
+2025-03-09 15:36:11 ERROR TC01_VerifyRegisterAccount:39 - TC01_VerifyRegisterAccount FAILED
+2025-03-09 15:36:11 INFO  TC01_VerifyRegisterAccount:47 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-09 15:36:13 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-09 15:36:13 INFO  TC02_Login:19 - Clicked Login
+2025-03-09 15:36:14 INFO  TC02_Login:25 - Filled login info
+2025-03-09 15:36:14 INFO  TC02_Login:29 - Login successfully
+2025-03-09 15:36:14 INFO  TC02_Login:40 - ******TC02_Login ENDED******

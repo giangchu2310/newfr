@@ -23,11 +23,11 @@ import org.testng.annotations.Parameters;
 
 //BaseClass: Contain common methods of TC class
 public class BaseClass {
-    public WebDriver driver;
+    public static WebDriver driver;
     public Logger logger; //because logs will be generated every time a test case run --> place in BaseClass
     public Properties properties;
 
-    @BeforeClass(groups = {"Regression","Sanity","Master"})
+    @BeforeClass(groups = {"Regression", "Sanity", "Master"})
     @Parameters({"browser"})
     public void setUp(String br) throws IOException {
         //Load Properties file
@@ -41,11 +41,19 @@ public class BaseClass {
         //'this.getClass()' gets class name dynamically because we run multiple test cases in multiple classes
 
         //Run tc based on param passed in xml file
-        switch (br.toLowerCase()){
-            case "chrome": driver = new ChromeDriver(); break;
-            case "edge": driver = new EdgeDriver(); break;
-            case "firefox": driver = new FirefoxDriver(); break;
-            default: System.out.println("Invalid browser"); return;
+        switch (br.toLowerCase()) {
+            case "chrome":
+                driver = new ChromeDriver();
+                break;
+            case "edge":
+                driver = new EdgeDriver();
+                break;
+            case "firefox":
+                driver = new FirefoxDriver();
+                break;
+            default:
+                System.out.println("Invalid browser");
+                return;
         }
 
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
@@ -54,25 +62,28 @@ public class BaseClass {
         driver.manage().window().maximize();
     }
 
-    @AfterClass(groups = {"Regression","Sanity","Master"})
+    @AfterClass(groups = {"Regression", "Sanity", "Master"})
     public void tearDown() {
         driver.quit();
     }
 
     public String captureScreen(String tname) throws IOException {
+        try {
+            String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 
-        String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+            TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+            File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 
-        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
-        File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
+            String targetFilePath = System.getProperty("user.dir") + "\\src\\test\\screenshots\\" + tname + "_" + timeStamp + ".png";
+            File targetFile = new File(targetFilePath);
 
-        String targetFilePath=System.getProperty("user.dir")+".\\src\\test\\screenshots\\" + tname + "_" + timeStamp + ".png";
-        File targetFile=new File(targetFilePath);
+            sourceFile.renameTo(targetFile);
 
-        sourceFile.renameTo(targetFile);
-
-        return targetFilePath;
-
+            return targetFilePath;
+        } catch (Exception e) {
+            logger.error("Capture screen failed: " + e.getMessage());
+            System.out.println(e.getMessage());
+            return null;
+        }
     }
-
 }

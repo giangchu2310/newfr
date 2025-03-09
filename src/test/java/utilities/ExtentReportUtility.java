@@ -32,6 +32,7 @@ public class ExtentReportUtility implements ITestListener {
 		String currentdatetimestamp=df.format(dt);
 		*/
 
+        //Set name + UI of the report
         String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
         repName = "Test-Report-" + timeStamp + ".html";
         sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + ".\\src\\test\\reports\\" + repName);// specify location of the report
@@ -40,6 +41,7 @@ public class ExtentReportUtility implements ITestListener {
         sparkReporter.config().setReportName("opencart Functional Testing"); // name of the report
         sparkReporter.config().setTheme(Theme.DARK);
 
+        //Generate report, set system info
         extent = new ExtentReports();
         extent.attachReporter(sparkReporter);
         extent.setSystemInfo("Application", "opencart");

@@ -1,23 +1,15 @@
 package testCases;
 
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import org.testng.asserts.Assertion;
 import pageObjects.HomePage;
 import pageObjects.RegisterAccountPage;
 import testBase.BaseClass;
 
-import java.time.Duration;
-
 public class TC01_VerifyRegisterAccount extends BaseClass{
 
     @Test(groups = {"Sanity","Master"})
-    public void registerAccSuccess() {
+    public void registerAcc() {
         try{
             logger.info("******TC01_VerifyRegisterAccount STARTED******");
             HomePage homePage = new HomePage(driver);
@@ -45,7 +37,7 @@ public class TC01_VerifyRegisterAccount extends BaseClass{
                 Assert.assertTrue(true); //Hard assertion,if put log statement below Assert statement -> Still execute if tc passes
             } else {
                 logger.error("TC01_VerifyRegisterAccount FAILED");
-                Assert.fail(); //Hard assertion,if put log statement below Assert fail statement -> Wont execute
+                Assert.assertTrue(false); //Hard assertion,if put log statement below Assert fail statement -> Wont execute
             }
         }catch (Exception e ){
             logger.error("Error logs..... ");

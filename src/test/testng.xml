@@ -12,12 +12,12 @@
     <listeners>
         <listener class-name="utilities.ExtentReportUtility"></listener>
     </listeners>
-    
+
     <test name="RegisterAcc-Chrome">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
             <class name="testCases.TC01_VerifyRegisterAccount"/>
-<!--            <class name="testCases.TC02_Login"/>-->
+            <class name="testCases.TC02_Login"/>
         </classes>
     </test>
 
