@@ -16,7 +16,7 @@ import java.time.Duration;
 
 public class TC01_VerifyRegisterAccount extends BaseClass{
 
-    @Test
+    @Test(groups = {"Sanity","Master"})
     public void registerAccSuccess() {
         try{
             logger.info("******TC01_VerifyRegisterAccount STARTED******");
@@ -29,9 +29,9 @@ public class TC01_VerifyRegisterAccount extends BaseClass{
             RegisterAccountPage registerPage = new RegisterAccountPage(driver);
             registerPage.setFirstName("Giang");
             registerPage.setLastName("Chu");
-            registerPage.setEmail("giang.908"+"@gmail.com");
+            registerPage.setEmail(properties.getProperty("username"));
             registerPage.setTelephone("0934345435");
-            String pw = "abc4123";
+            String pw = properties.getProperty("pw");
             registerPage.setPassword(pw);
             registerPage.setConfirmPw(pw);
             logger.info("Filled in information");

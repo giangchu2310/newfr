@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC02_Login extends BaseClass {
 
-    @Test
+    @Test(groups = {"Regression","Master"})
     public void loginSuccess() {
         try {
             logger.info("******TC02_Login STARTED******");

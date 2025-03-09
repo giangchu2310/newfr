@@ -10,10 +10,22 @@ public class MyAccountPage extends BasePage {
         super(driver);
     }
 
-    @FindBy(xpath="//h2[normalize-space()='My Account']") private WebElement myAccount;
+    @FindBy(xpath = "//h2[normalize-space()='My Account']")
+    private WebElement myAccountHeading;
+    @FindBy(xpath = "//div[@class='list-group']//a[contains(text(),'Logout')]")
+    private WebElement logoutBtn;
 
-    public boolean isMyAccountExist(){
-        boolean isMyAccExist = myAccount.isDisplayed();
-        return isMyAccExist;
+    public boolean isMyAccountExist() {
+        try {
+            boolean isMyAccExist = myAccountHeading.isDisplayed();
+            return isMyAccExist;
+        } catch (Exception e){
+            return false;
+        }
+
+    }
+
+    public void clickLogout() {
+        logoutBtn.click();
     }
 }

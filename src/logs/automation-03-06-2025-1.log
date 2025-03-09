@@ -1,0 +1,483 @@
+2025-03-01 20:42:38 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:42:48 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:42:48 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:45:03 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:45:04 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:45:04 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:45:05 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:45:05 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:45:05 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:45:06 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:45:06 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:45:06 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:45:07 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:45:07 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:45:07 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:45:07 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:45:08 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:45:08 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:45:16 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:45:16 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:45:17 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:45:17 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:45:18 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:45:18 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:49:02 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:49:02 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:49:03 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:49:03 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:49:04 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:49:04 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:49:04 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:49:05 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:49:05 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:49:06 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:49:06 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 20:49:06 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 20:49:07 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 20:49:07 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 20:49:07 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 20:49:14 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:49:14 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:49:16 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:49:16 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 20:49:17 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 20:49:17 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 21:04:46 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 21:04:46 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 21:04:46 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 21:04:47 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 21:04:48 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 21:04:48 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 21:04:48 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 21:04:49 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 21:04:49 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 21:04:50 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 21:04:50 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 21:04:50 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 21:04:51 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 21:04:51 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 21:04:51 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 21:04:58 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 21:04:58 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 21:05:00 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 21:05:00 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 21:05:01 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 21:05:01 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:47:24 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:47:24 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:47:24 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:47:25 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:47:26 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:47:36 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:47:36 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:47:42 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:47:43 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:47:43 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:47:43 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:47:44 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:47:54 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:47:54 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:48:01 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:48:01 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:48:02 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:48:02 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:48:03 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:48:13 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:48:13 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:48:55 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:48:55 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:48:57 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:48:57 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:48:58 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:48:58 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:48:58 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:48:59 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:48:59 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:49:00 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:49:01 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-01 22:49:01 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-01 22:49:02 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-01 22:49:02 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-01 22:49:03 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-01 22:49:09 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:49:09 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:49:10 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:49:10 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-01 22:49:13 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-01 22:49:13 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-02 17:40:37 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-02 17:40:37 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-02 17:40:37 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-02 17:40:38 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-02 17:40:38 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-02 17:40:48 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-02 17:40:48 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-02 17:42:09 INFO  TC01_VerifyRegisterAccount:23 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-02 17:42:09 INFO  TC01_VerifyRegisterAccount:26 - Clicked on My account
+2025-03-02 17:42:10 INFO  TC01_VerifyRegisterAccount:28 - Clicked on Register
+2025-03-02 17:42:10 INFO  TC01_VerifyRegisterAccount:38 - Filled in information
+2025-03-02 17:42:11 INFO  TC01_VerifyRegisterAccount:41 - Click on continue
+2025-03-02 17:42:21 ERROR TC01_VerifyRegisterAccount:48 - TC01_VerifyRegisterAccount FAILED
+2025-03-02 17:42:21 INFO  TC01_VerifyRegisterAccount:56 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-02 18:02:48 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-02 18:02:58 ERROR TC02_Login:36 - Login failed with exception
+2025-03-02 18:02:58 INFO  TC02_Login:39 - ******TC02_Login ENDED******
+2025-03-02 18:04:06 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-02 18:04:07 INFO  TC02_Login:19 - Clicked Login
+2025-03-02 18:04:07 INFO  TC02_Login:25 - Filled login info
+2025-03-02 18:04:07 INFO  TC02_Login:29 - Login successfully
+2025-03-02 18:04:07 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-02 18:05:16 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-02 18:05:16 INFO  TC02_Login:19 - Clicked Login
+2025-03-02 18:05:17 INFO  TC02_Login:25 - Filled login info
+2025-03-02 18:05:27 ERROR TC02_Login:37 - Login failed with exception
+2025-03-02 18:05:27 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-06 17:59:46 INFO  TC02_Login:15 - ******TC02_Login STARTED******
+2025-03-06 17:59:46 INFO  TC02_Login:19 - Clicked Login
+2025-03-06 17:59:47 INFO  TC02_Login:25 - Filled login info
+2025-03-06 17:59:57 ERROR TC02_Login:37 - Login failed with exception
+2025-03-06 17:59:57 INFO  TC02_Login:40 - ******TC02_Login ENDED******
+2025-03-06 18:00:52 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-06 18:00:52 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-06 18:00:53 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-06 18:00:53 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-06 18:00:54 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-06 18:01:04 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-06 18:01:04 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-06 18:01:10 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-06 18:01:10 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-06 18:01:10 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-06 18:01:11 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-06 18:01:12 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-06 18:01:22 ERROR TC01_VerifyRegisterAccount:47 - TC01_VerifyRegisterAccount FAILED
+2025-03-06 18:01:22 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-06 18:02:32 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-06 18:02:33 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-06 18:02:33 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-06 18:02:34 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-06 18:02:34 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-06 18:02:34 INFO  TC01_VerifyRegisterAccount:44 - TC01_VerifyRegisterAccount PASSED
+2025-03-06 18:02:34 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-06 18:03:05 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-06 18:03:06 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-06 18:03:06 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-06 18:03:07 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-06 18:03:07 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-06 18:03:07 INFO  TC01_VerifyRegisterAccount:44 - TC01_VerifyRegisterAccount PASSED
+2025-03-06 18:03:07 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-06 18:04:43 INFO  TC01_VerifyRegisterAccount:22 - ******TC01_VerifyRegisterAccount STARTED******
+2025-03-06 18:04:44 INFO  TC01_VerifyRegisterAccount:25 - Clicked on My account
+2025-03-06 18:04:44 INFO  TC01_VerifyRegisterAccount:27 - Clicked on Register
+2025-03-06 18:04:45 INFO  TC01_VerifyRegisterAccount:37 - Filled in information
+2025-03-06 18:04:46 INFO  TC01_VerifyRegisterAccount:40 - Click on continue
+2025-03-06 18:04:46 INFO  TC01_VerifyRegisterAccount:44 - TC01_VerifyRegisterAccount PASSED
+2025-03-06 18:04:46 INFO  TC01_VerifyRegisterAccount:55 - ******TC01_VerifyRegisterAccount FINISHED******
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:40:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:11 INFO  TC02_LoginDataDriven:12 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 18:41:11 INFO  TC02_LoginDataDriven:16 - Clicked Login
+2025-03-06 18:41:11 INFO  TC02_LoginDataDriven:22 - Filled login info
+2025-03-06 18:41:11 INFO  TC02_LoginDataDriven:12 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 18:41:22 INFO  TC02_LoginDataDriven:12 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 18:41:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 18:41:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 18:41:32 INFO  TC02_LoginDataDriven:12 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:26:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:26:48 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:26:48 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:26:49 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:26:49 INFO  TC02_LoginDataDriven:32 - Login successfully
+2025-03-06 19:26:49 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:26:49 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:26:50 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:26:50 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:27:00 ERROR TC02_LoginDataDriven:51 - Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9abced7e741c84b7b66833d90b0d4461, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\Vu\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52252/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9abced7e741c84b7b66833d90b0d4461
+2025-03-06 19:27:00 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:27:00 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:27:01 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:27:02 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:27:02 ERROR TC02_LoginDataDriven:45 - Invalid data but login successfully
+2025-03-06 19:27:02 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:27:02 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:27:02 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:27:03 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:27:13 ERROR TC02_LoginDataDriven:51 - Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9abced7e741c84b7b66833d90b0d4461, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\Vu\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52252/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9abced7e741c84b7b66833d90b0d4461
+2025-03-06 19:27:13 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:30:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:30:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:30:45 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:30:45 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:30:45 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:30:46 INFO  TC02_LoginDataDriven:32 - Login successfully
+2025-03-06 19:30:46 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:30:46 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:30:47 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:30:47 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:30:57 ERROR TC02_LoginDataDriven:51 - Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [812c629feeb14ba6e86c8168b97018a6, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\Vu\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52425/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 812c629feeb14ba6e86c8168b97018a6
+2025-03-06 19:30:57 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:30:57 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:30:57 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:30:59 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:30:59 ERROR TC02_LoginDataDriven:42 - Invalid data but login successfully
+2025-03-06 19:30:59 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:30:59 INFO  TC02_LoginDataDriven:15 - ******TC02_LoginDataDriven STARTED******
+2025-03-06 19:30:59 INFO  TC02_LoginDataDriven:19 - Clicked Login
+2025-03-06 19:31:00 INFO  TC02_LoginDataDriven:25 - Filled login info
+2025-03-06 19:31:10 ERROR TC02_LoginDataDriven:51 - Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [812c629feeb14ba6e86c8168b97018a6, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\Vu\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52425/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 812c629feeb14ba6e86c8168b97018a6
+2025-03-06 19:31:10 INFO  TC02_LoginDataDriven:54 - ****FINISHED****
+2025-03-06 19:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-06 19:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels

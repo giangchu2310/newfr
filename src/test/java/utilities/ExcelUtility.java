@@ -14,7 +14,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class ExelUtil {
+public class ExcelUtility {
     public FileInputStream fi;
     public FileOutputStream fo;
     public XSSFWorkbook workbook;

@@ -8,8 +8,8 @@ import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 import utilities.DataProviders;
 
-public class TC02_LoginDataDriven extends BaseClass {
-    @Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class)
+public class TC03_LoginDataDriven extends BaseClass {
+    @Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = {"DataDriven","Master"})
     public void logInMultipleAccs(String username, String pw, String expect) {
         try {
             logger.info("******TC02_LoginDataDriven STARTED******");
